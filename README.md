@@ -1,4 +1,5 @@
 
+
 # 👋 Hola! Sóc en Sergi Giménez
 
 ### 💻 Estudiant de CFGM de Sistemes Microinformàtics i Xarxes (SMX 2B)
@@ -53,7 +54,7 @@ Estic aprenent a:
 ### 🌐 Xarxes i virtualització
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="55" alt="VirtualBox" title="VirtualBox"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="55" alt="VirtualBox" title="VirtualBox"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" title="Docker"/>
 </p>
 
