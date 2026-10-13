@@ -48,7 +48,7 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 ### 🖥️ Virtualització
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="55" alt="VirtualBox" title="VirtualBox"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/VirtualBox_2024_Logo.svg" width="65" alt="Oracle VirtualBox" title="Oracle VirtualBox"/>
 </p>
 
 ### 📊 Ofimàtica
