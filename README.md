@@ -5,29 +5,30 @@
 
 🎓 Estudiant de **2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)**.
 
-M'interessa la informàtica,el que més m'agrada és web, seguretat i programació. Peró em costa una mica
+M'interessa la informàtica; el que més m'agrada és el desenvolupament web, la seguretat i la programació, tot i que encara em costa una mica i vull continuar millorant.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="GIF animat de programació i informàtica"/>
+</p>
 
 ## 🙋‍♂️ Qui sóc?
 
 - 💻 Estudiant de Sistemes Microinformàtics i Xarxes.
-- 🌐 Interessat en xarxes informàtiques i administració de sistemes.
-- 🐧 Aprenent a treballar amb Linux i Windows.
-- 🛠️ Practicant amb màquines virtuals, programació i Git.
-- 🚀 Amb ganes de continuar aprenent i desenvolupant projectes.
+- 🌐 Interessat en el desenvolupament web.
+- 🔐 Aprenent sobre seguretat informàtica.
+- 👨‍💻 Practicant programació i desenvolupament de projectes.
+- 🚀 Amb ganes d'aprendre i millorar les meves habilitats tècniques.
 
 ## 🎓 Què estic estudiant?
 
 Actualment estic cursant el segon any de SMX, on treballo amb:
 
-- Mòdul Optatiu: Programació.
-- Competències professionals per a l'ocupabilitat.
+- Sistemes operatius.
+- Xarxes locals.
+- Muntatge i manteniment d'equips.
+- Aplicacions ofimàtiques.
 - Aplicacions web.
--  Itinerari personal per a l'ocupabilitat II .
-- Projecte intermodular.
-- Seguretat informàtica.
-- Serveis de xarxa.
--  Sistemes operatius en xarxa.
--  Sostenibilitat aplicada al sistema productiu.
+- Administració de sistemes i eines informàtiques.
 
 ## 🧰 Tecnologies i eines
 
@@ -74,10 +75,10 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 ## 📂 Projectes i pràctiques
 
 🔹 **Instal·lació i configuració de Visual Studio Code**  
-Pràctica d'instal·lació i configuració d'un editor de codi a Windows.
+Instal·lació i configuració d'un editor de codi a Windows.
 
 🔹 **Configuració d'un servidor DHCP**  
-Pràctica de configuració d'un servidor DHCP amb Ubuntu Server.
+Configuració d'un servidor DHCP amb Ubuntu Server.
 
 🔹 **Administració de sistemes Linux**  
 Pràctiques amb ordres de terminal, usuaris, grups, permisos i directoris.
@@ -87,8 +88,9 @@ Creació de repositoris, fitxers Markdown i control de versions.
 
 ## 🎯 Objectius
 
-- Millorar els meus coneixements de xarxes i sistemes.
-- Aprendre noves eines informàtiques.
+- Millorar els meus coneixements de programació.
+- Aprendre desenvolupament web.
+- Ampliar els meus coneixements de seguretat informàtica.
 - Desenvolupar projectes pràctics.
 - Preparar-me per a les pràctiques en empresa.
 - Continuar creixent professionalment dins del sector informàtic.
