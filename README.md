@@ -1,5 +1,6 @@
 
 
+
 # 👋 Hola! Sóc en Sergi Giménez
 
 ### 💻 Estudiant de CFGM de Sistemes Microinformàtics i Xarxes (SMX 2B)
