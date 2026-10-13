@@ -2,7 +2,6 @@
 
 
 <!-- BANNER DE PRESENTACIÓ -->
-
 <p align="center">
   <img src="./fons-informatica.png" width="100%" alt="Banner tecnològic de Sergi"/>
 </p>
@@ -14,7 +13,7 @@
 </p>
 
 <p align="center">
-  M'interessa la informàtica, especialment el desenvolupament web, la seguretat i la programació. Encara em costa una mica, però vull continuar aprenent i millorant!
+  M'interessa la informàtica; el que més m'agrada és el desenvolupament web, la seguretat i la programació. Encara em costa una mica, però vull continuar aprenent i millorant!
 </p>
 
 <p align="center">
