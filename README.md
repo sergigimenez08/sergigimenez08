@@ -1,15 +1,27 @@
 
 
 
-# 👋 Hola! Sóc en Sergi Giménez
-
-🎓 Estudiant de **2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)**.
-
-M'interessa la informàtica; el que més m'agrada és el desenvolupament web, la seguretat i la programació, tot i que encara em costa una mica i vull continuar millorant.
+<!-- BANNER DE PRESENTACIÓ -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="GIF animat de programació i informàtica"/>
+  <img src="./fons-informatica.png" width="100%" alt="Banner tecnològic de Sergi"/>
 </p>
+
+<h1 align="center">👋 Hola! Sóc en Sergi Giménez</h1>
+
+<p align="center">
+  🎓 Estudiant de <strong>2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)</strong>
+</p>
+
+<p align="center">
+  M'interessa la informàtica, especialment el desenvolupament web, la seguretat i la programació. Encara em costa una mica, però vull continuar aprenent i millorant!
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF animat de programació"/>
+</p>
+
+---
 
 ## 🙋‍♂️ Qui sóc?
 
@@ -28,13 +40,13 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 - Muntatge i manteniment d'equips.
 - Aplicacions ofimàtiques.
 - Aplicacions web.
-- Administració de sistemes i eines informàtiques.
+- Administració de sistemes.
 
 ## 🧰 Tecnologies i eines
 
 ### 💻 Sistemes operatius
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" alt="Windows" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="55" alt="Ubuntu" title="Ubuntu"/>
@@ -42,7 +54,7 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 
 ### 👨‍💻 Programació i desenvolupament
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" title="GitHub"/>
@@ -51,13 +63,13 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 
 ### 🖥️ Virtualització
 
-<p>
+<p align="left">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/VirtualBox_2024_Logo.svg" width="65" alt="Oracle VirtualBox" title="Oracle VirtualBox"/>
 </p>
 
 ### 📊 Ofimàtica
 
-<p>
+<p align="left">
   <img src="https://img.icons8.com/color/96/microsoft-word-2019.png" width="55" alt="Microsoft Word" title="Microsoft Word"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55" alt="Microsoft Excel" title="Microsoft Excel"/>
   <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="55" alt="Microsoft PowerPoint" title="Microsoft PowerPoint"/>
@@ -66,7 +78,7 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 
 ### 🌐 Eines de Google
 
-<p>
+<p align="left">
   <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Gmail" title="Gmail"/>
   <img src="https://img.icons8.com/color/96/google-calendar--v2.png" width="55" alt="Google Calendar" title="Google Calendar"/>
   <img src="https://img.icons8.com/color/96/google-drive--v2.png" width="55" alt="Google Drive" title="Google Drive"/>
@@ -74,16 +86,20 @@ Actualment estic cursant el segon any de SMX, on treballo amb:
 
 ## 📂 Projectes i pràctiques
 
-🔹 **Instal·lació i configuració de Visual Studio Code**  
+🔹 **Instal·lació i configuració de Visual Studio Code**
+
 Instal·lació i configuració d'un editor de codi a Windows.
 
-🔹 **Configuració d'un servidor DHCP**  
+🔹 **Configuració d'un servidor DHCP**
+
 Configuració d'un servidor DHCP amb Ubuntu Server.
 
-🔹 **Administració de sistemes Linux**  
+🔹 **Administració de sistemes Linux**
+
 Pràctiques amb ordres de terminal, usuaris, grups, permisos i directoris.
 
-🔹 **Git i GitHub**  
+🔹 **Git i GitHub**
+
 Creació de repositoris, fitxers Markdown i control de versions.
 
 ## 🎯 Objectius
@@ -97,7 +113,7 @@ Creació de repositoris, fitxers Markdown i control de versions.
 
 ## 📫 Contacte
 
-<p>
+<p align="left">
   <a href="https://github.com/EL_TEU_USUARI">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -108,4 +124,6 @@ Creació de repositoris, fitxers Markdown i control de versions.
 
 ---
 
-⭐ *Sempre aprenent, practicant i millorant en el món de la informàtica!*
+<p align="center">
+  ⭐ <em>Sempre aprenent, practicant i millorant en el món de la informàtica!</em>
+</p>
