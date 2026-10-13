@@ -1,20 +1,11 @@
 
 
 
-<!-- BANNER DE PRESENTACIÓ -->
-<p align="center">
-  <img src="./fons-informatica.png" width="100%" alt="Banner tecnològic de Sergi"/>
-</p>
+# 👋 Hola! Sóc en Sergi Giménez
 
-<h1 align="center">👋 Hola! Sóc en Sergi Giménez</h1>
+🎓 Estudiant de **2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)**.
 
-<p align="center">
-  🎓 Estudiant de <strong>2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)</strong>
-</p>
-
-<p align="center">
-  M'interessa la informàtica; el que més m'agrada és el desenvolupament web, la seguretat i la programació. Encara em costa una mica, però vull continuar aprenent i millorant!
-</p>
+M'interessa la informàtica; el que més m'agrada és el desenvolupament web, la seguretat i la programació. Encara em costa una mica, però vull continuar aprenent i millorant!
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF animat de programació"/>
