@@ -5,7 +5,7 @@
 
 🎓 Estudiant de **2n de CFGM SMX (Sistemes Microinformàtics i Xarxes)**.
 
-M'interessa la informàtica, les xarxes, els sistemes operatius i el desenvolupament de projectes tecnològics. M'agrada aprendre coses noves i millorar les meves habilitats tècniques.
+M'interessa la informàtica,el que més m'agrada és web, seguretat i programació. Peró em costa una mica
 
 ## 🙋‍♂️ Qui sóc?
 
@@ -19,12 +19,15 @@ M'interessa la informàtica, les xarxes, els sistemes operatius i el desenvolupa
 
 Actualment estic cursant el segon any de SMX, on treballo amb:
 
-- Sistemes operatius.
-- Xarxes locals.
-- Muntatge i manteniment d'equips.
-- Aplicacions ofimàtiques.
+- Mòdul Optatiu: Programació.
+- Competències professionals per a l'ocupabilitat.
 - Aplicacions web.
-- Administració de sistemes i eines informàtiques.
+-  Itinerari personal per a l'ocupabilitat II .
+- Projecte intermodular.
+- Seguretat informàtica.
+- Serveis de xarxa.
+-  Sistemes operatius en xarxa.
+-  Sostenibilitat aplicada al sistema productiu.
 
 ## 🧰 Tecnologies i eines
 
